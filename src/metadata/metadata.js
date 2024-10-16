@@ -34,7 +34,7 @@ module.exports = {
     },
     {
       type: "DevOps",
-      description: 'AWS, CI/CD pipelines, Test-Driven Development, CloudWatch logs management and analysis, AmazonMQ, Terraform.',
+      description: 'AWS, CI/CD pipelines, Test-Driven Development, CloudWatch logs management and analysis, AmazonMQ, Amazon Kinesis, Terraform.',
     },
     {
       type: "Plugin Development and SEO",
@@ -42,7 +42,7 @@ module.exports = {
     },
     {
       type: "Various",
-      description: 'Github, Azure DevOps, Sentry, Adobe Suite, Video streaming, Cryptography, Virtualization.',
+      description: 'Github, JIRA, Azure DevOps, Sentry, Adobe Suite, Video streaming, Cryptography, Virtualization.',
     }
   ],
   positions: [
